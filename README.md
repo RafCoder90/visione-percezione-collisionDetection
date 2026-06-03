@@ -1,4 +1,4 @@
-# Sistema Avanzato di Visione 3D per la Rilevazione di Collisioni e Posa (Objectron 3D)
+# Sistema di Rilevazione di Collisioni e Posa (Objectron 3D)
 
 Questo repository contiene il codice sorgente sviluppato per l'esame di **Visione e Percezione**. 
 L'obiettivo è stimare la posa 3D e le collisioni (cuboidi e Bounding Box Orientati - OBB) di oggetti in uno spazio metrico a partire da un singolo flusso monoculare RGB.
