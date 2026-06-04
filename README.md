@@ -30,11 +30,11 @@ cd visione-percezione-collisionDetection
 
 ### 2. Creare e attivare l'ambiente virtuale venv
 
-# Su Windows:
+## Su Windows:
 python -m venv venv
 .\venv\Scripts\activate
 
-# Su Linux/macOS:
+#] Su Linux/macOS:
 python3 -m venv venv
 source venv/bin/activate
 
@@ -47,4 +47,4 @@ pip install -r requirements.txt
 
 
 ### 4. Avviare lo script
-python src/main.py
+python src\main.py
