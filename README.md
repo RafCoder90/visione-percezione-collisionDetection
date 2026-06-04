@@ -23,29 +23,32 @@ Il progetto è stato sviluppato isolando le dipendenze tramite un ambiente virtu
 
 ### 1. Clonare il repository
 
-git clone [https://github.com/RafCoder90/visione-percezione-collisionDetection.git](https://github.com/RafCoder90/visione-percezione-collisionDetection.git)
+$ git clone [https://github.com/RafCoder90/visione-percezione-collisionDetection.git](https://github.com/RafCoder90/visione-percezione-collisionDetection.git)
 
-cd visione-percezione-collisionDetection
+$ cd visione-percezione-collisionDetection
 
 
 
-### 2. Creare e attivare l'ambiente virtuale venv
+### 2. Creare e attivare l'ambiente virtuale venv ($pip install virtualenv) 
 
 ## Su Windows:
-python -m venv venv
-.\venv\Scripts\activate
+$ python -m venv venv
 
-#] Su Linux/macOS:
-python3 -m venv venv
-source venv/bin/activate
+$ .\venv\Scripts\activate
+
+## Su Linux/macOS:
+$ python3 -m venv venv
+
+$ source venv/bin/activate
 
 
 
 ### 3. Installare le dipendenze richieste
 
-pip install --upgrade pip
-pip install -r requirements.txt
+$ python -m pip install --upgrade pip
+
+$ pip install -r requirements.txt
 
 
 ### 4. Avviare lo script
-python src\main.py
+$ python src\main.py
