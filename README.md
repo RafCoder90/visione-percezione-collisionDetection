@@ -24,6 +24,7 @@ Il progetto è stato sviluppato isolando le dipendenze tramite un ambiente virtu
 ### 1. Clonare il repository
 
 git clone [https://github.com/RafCoder90/visione-percezione-collisionDetection.git](https://github.com/RafCoder90/visione-percezione-collisionDetection.git)
+
 cd visione-percezione-collisionDetection
 
 
